@@ -40,7 +40,6 @@ Biomedical Engineer passionate about leveraging technology to advance healthcare
 
 - 📧 Email: jaimecriado02@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/jaimecriado](https://www.linkedin.com/in/jaimecriado)
-- 📍 Location: Valladolid, Spain
 
 ## 🗣️ Languages
 
